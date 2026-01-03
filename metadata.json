@@ -1,0 +1,7 @@
+{
+  "name": "Radio Brasil AI",
+  "description": "A premium Brazilian radio streaming application featuring AI-powered station recommendations, cultural insights, and immersive audio visualizations.",
+  "requestFramePermissions": [
+    "microphone"
+  ]
+}
